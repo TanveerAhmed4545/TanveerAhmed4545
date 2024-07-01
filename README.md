@@ -1,22 +1,26 @@
-<h1 align="center">Hi 👋, I'm Tanveer Ahmed</h1>
-![I am GitHub Readme Generator's creator](https://media.licdn.com/dms/image/D5616AQHZYPnyxYH21g/profile-displaybackgroundimage-shrink_350_1400/0/1719859422287?e=1725494400&v=beta&t=xgHjWWMMHj51-c7L5vkS7_fACW4Rrt6OvqnXCeM97kk)
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+### Hi there 👋, my name is Tanveer Ahmed
+#### A passionate frontend developer from Bangladesh
+![A passionate frontend developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQHZYPnyxYH21g/profile-displaybackgroundimage-shrink_350_1400/0/1719859422287?e=1725494400&v=beta&t=xgHjWWMMHj51-c7L5vkS7_fACW4Rrt6OvqnXCeM97kk)
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=tanveerahmed4545&label=Profile%20views&color=0e75b6&style=flat" alt="tanveerahmed4545" /> </p>
+Hello there! 🔍 I'm deeply passionate about the MERN stack (MongoDB, Express.js, React.js, and Node.js), where I'm constantly exploring how innovation and functionality intersect to create seamless digital experiences. As a junior developer, I'm eager to immerse myself in the world of web development and contribute my skills to building amazing projects. I'm excited to learn and grow alongside this vibrant community of developers. If you're on a similar journey or have any advice to share, I'd love to connect! 🚀
 
-<div align="center" >
-  -- 🌱 I’m currently learning **Next.js**
+Skills: REACT / JS / HTML / CSS
 
-  -- 💬 Ask me about **react ,javaScript**
+- 🌱 I’m currently learning Next js 
+- 💬 Ask me about react,javaScript, 
+- 📫 How to reach me:  tanveer8507@gmail.com 
 
-  -- 📫 How to reach me **tanveer8507@gmail.com**
-</div>
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TanveerAhmed4545)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tanveerahmed45/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tanveer-ahmed-portfolio-next.vercel.app/)  
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=TanveerAhmed4545)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerAhmed4545)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanveerAhmed4545&show_icons=true)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=TanveerAhmed4545)  
+
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerahmed4545&show_icons=true&locale=en&layout=compact" alt="tanveerahmed4545" /></p>
