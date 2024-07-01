@@ -37,8 +37,7 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
 
 
 
-```
----------------
+
 ###
 
 <div align="center">
@@ -46,7 +45,7 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerahmed4545&show_icons=true&locale=en" height="150" alt="tanveerahmed4545" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveerahmed4545&" height="150" alt="tanveerahmed4545" />
 </div> 
-###
+
 
 ###
 
