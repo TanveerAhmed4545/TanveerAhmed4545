@@ -35,8 +35,8 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerAhmed4545)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TanveerAhmed4545" alt="trophy" />
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TanveerAhmed4545" alt="trophy" style="margin: 20px;" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerAhmed4545" alt="Top Langs" />
