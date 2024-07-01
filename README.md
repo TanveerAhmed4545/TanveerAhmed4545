@@ -3,11 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=tanveerahmed4545&label=Profile%20views&color=0e75b6&style=flat" alt="tanveerahmed4545" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+<div align="center" >
+  - 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **react ,javaScript**
 
 - 📫 How to reach me **tanveer8507@gmail.com**
+</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
