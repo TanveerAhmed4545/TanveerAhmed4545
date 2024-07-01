@@ -1,5 +1,5 @@
 ![A passionate frontend developer from Bangladesh](https://i.ibb.co/ZXH5bPY/Black-and-White-Gradient-Personal-Linked-In-Banner.jpg)
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanveerahmed4545&label=Profile%20views&color=0e75b6&style=flat" alt="tanveerahmed4545" /> </p>
 ### Hi 👋, I'm Tanveer Ahmed
 #### A passionate frontend developer from Bangladesh
 
