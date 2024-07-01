@@ -1,6 +1,8 @@
+![A passionate frontend developer from Bangladesh](https://i.ibb.co/ZXH5bPY/Black-and-White-Gradient-Personal-Linked-In-Banner.jpg)
+
 ### Hi 👋, I'm Tanveer Ahmed
 #### A passionate frontend developer from Bangladesh
-![A passionate frontend developer from Bangladesh](https://i.ibb.co/ZXH5bPY/Black-and-White-Gradient-Personal-Linked-In-Banner.jpg)
+
 
 Hello there! 🔍 I'm deeply passionate about the MERN stack (MongoDB, Express.js, React.js, and Node.js), where I'm constantly exploring how innovation and functionality intersect to create seamless digital experiences. As a junior developer, I'm eager to immerse myself in the world of web development and contribute my skills to building amazing projects. I'm excited to learn and grow alongside this vibrant community of developers. If you're on a similar journey or have any advice to share, I'd love to connect! 🚀
 
