@@ -7,13 +7,13 @@ Hello there! 🔍 I'm deeply passionate about the MERN stack (MongoDB, Express.j
 Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
 
 - 🌱 I’m currently learning Next js 
-- 💬 Ask me about react,javaScript, 
+- 💬 Ask me about React,JavaScript, 
 - 📫 How to reach me:  tanveer8507@gmail.com 
 
 
-<div align="center">
+
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TanveerAhmed4545)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tanveerahmed45/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tanveer-ahmed-portfolio-next.vercel.app/)  
-</div>
+
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=TanveerAhmed4545)](https://github.com/ryo-ma/github-profile-trophy)
@@ -24,6 +24,35 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=TanveerAhmed4545)  
 
+###
 
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="24" alt="typescript logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="nodejs logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="react logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" alt="express logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="mongodb logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="24" alt="sass logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="24" alt="tailwindcss logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="24" alt="bootstrap logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" alt="figma logo"  />
+</div>
+
+###
+<p align="center">
+Check out my repos ⬇️  
+</p>
 
 
