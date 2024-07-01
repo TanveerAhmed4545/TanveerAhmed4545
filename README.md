@@ -15,10 +15,10 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TanveerAhmed4545)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tanveerahmed45/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tanveer-ahmed-portfolio-next.vercel.app/)  
 
 
-
+<!--
  [![trophy](https://github-profile-trophy.vercel.app/?username=TanveerAhmed4545)](https://github.com/ryo-ma/github-profile-trophy)
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerAhmed4545)](https://github.com/anuraghazra/github-readme-stats)
-
+-->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=TanveerAhmed4545" alt="trophy" />
