@@ -23,4 +23,4 @@ Skills: REACT / JS / HTML / CSS
 
 
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerahmed4545&show_icons=true&locale=en&layout=compact" alt="tanveerahmed4545" /></p>
+
