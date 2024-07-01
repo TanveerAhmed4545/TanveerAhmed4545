@@ -39,21 +39,11 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
 
 
 
-<!--
- [![trophy](https://github-profile-trophy.vercel.app/?username=TanveerAhmed4545)](https://github.com/ryo-ma/github-profile-trophy)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerAhmed4545)](https://github.com/anuraghazra/github-readme-stats)
--->
 <div align="center">
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerahmed4545&show_icons=true&locale=en&layout=compact" alt="tanveerahmed4545" /></p>
-</div>
-<div align="center">
- 
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TanveerAhmed4545&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=TanveerAhmed4545)
-</div>  
+ <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerahmed4545&show_icons=true&locale=en&layout=compact" height="150" alt="tanveerahmed4545" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerahmed4545&show_icons=true&locale=en" height="150" alt="tanveerahmed4545" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveerahmed4545&" height="150" alt="tanveerahmed4545" />
+</div> 
 
 ###
 
@@ -82,16 +72,8 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
 Check out my repos ⬇️  
 </p>
 
-<div align="center">
- <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerahmed4545&show_icons=true&locale=en&layout=compact" height="150" alt="tanveerahmed4545" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerahmed4545&show_icons=true&locale=en" height="150" alt="tanveerahmed4545" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveerahmed4545&" height="150" alt="tanveerahmed4545" />
-</div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerahmed4545&show_icons=true&locale=en&layout=compact" alt="tanveerahmed4545" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerahmed4545&show_icons=true&locale=en" alt="tanveerahmed4545" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveerahmed4545&" alt="tanveerahmed4545" /></p>
 
