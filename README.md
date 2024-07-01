@@ -45,9 +45,7 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
 -->
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerAhmed4545" alt="Top Langs" />
-  </a>
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerahmed4545&show_icons=true&locale=en&layout=compact" alt="tanveerahmed4545" /></p>
 </div>
 <div align="center">
  
