@@ -85,3 +85,9 @@ Check out my repos ⬇️
 </p>
 
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanveerahmed4545&show_icons=true&locale=en&layout=compact" alt="tanveerahmed4545" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanveerahmed4545&show_icons=true&locale=en" alt="tanveerahmed4545" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanveerahmed4545&" alt="tanveerahmed4545" /></p>
+
