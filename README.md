@@ -6,6 +6,10 @@ Hello there! 🔍 I'm deeply passionate about the MERN stack (MongoDB, Express.j
 
 Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
 
+   <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=TanveerAhmed4545" alt="trophy" style="margin: 20px;" />
+  </a>
+
 - 🌱 I’m currently learning Next js 
 - 💬 Ask me about React,JavaScript, 
 - 📫 How to reach me:  tanveer8507@gmail.com 
@@ -35,9 +39,7 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerAhmed4545)](https://github.com/anuraghazra/github-readme-stats)
 -->
 <div align="center">
-   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=TanveerAhmed4545" alt="trophy" style="margin: 20px;" />
-  </a>
+
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanveerAhmed4545" alt="Top Langs" />
   </a>
