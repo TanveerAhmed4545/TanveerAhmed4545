@@ -4,7 +4,7 @@
 
 Hello there! 🔍 I'm deeply passionate about the MERN stack (MongoDB, Express.js, React.js, and Node.js), where I'm constantly exploring how innovation and functionality intersect to create seamless digital experiences. As a junior developer, I'm eager to immerse myself in the world of web development and contribute my skills to building amazing projects. I'm excited to learn and grow alongside this vibrant community of developers. If you're on a similar journey or have any advice to share, I'd love to connect! 🚀
 
-Skills: REACT / JS / HTML / CSS
+Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
 
 - 🌱 I’m currently learning Next js 
 - 💬 Ask me about react,javaScript, 
