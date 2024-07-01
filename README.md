@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Tanveer Ahmed
+### Hi 👋, I'm Tanveer Ahmed
 #### A passionate frontend developer from Bangladesh
 ![A passionate frontend developer from Bangladesh](https://media.licdn.com/dms/image/D5616AQHZYPnyxYH21g/profile-displaybackgroundimage-shrink_350_1400/0/1719859422287?e=1725494400&v=beta&t=xgHjWWMMHj51-c7L5vkS7_fACW4Rrt6OvqnXCeM97kk)
 
@@ -16,13 +16,14 @@ Skills: Node / Express.Js / MongoDB / React.Js / JS / HTML / CSS
 
 
 - 🌱 I’m currently learning Next js 
-- 💬 Ask me about React,JavaScript, 
+- 💬 Ask me about React, JavaScript, 
 - 📫 How to reach me:  tanveer8507@gmail.com 
 
 
 <!--
   [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/TanveerAhmed4545)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/www.linkedin.com/in/tanveerahmed45/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tanveer-ahmed-portfolio-next.vercel.app/)
 -->
+###
 <div align="center">
   <a href="https://github.com/TanveerAhmed4545">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="40" style="margin: 35px;" />
