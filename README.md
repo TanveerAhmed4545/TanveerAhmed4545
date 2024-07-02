@@ -8,12 +8,11 @@
 Hello there! 🔍 I'm deeply passionate about the MERN stack (MongoDB, Express.js, React.js, and Node.js), where I'm constantly exploring how innovation and functionality intersect to create seamless digital experiences. As a junior developer, I'm eager to immerse myself in the world of web development and contribute my skills to building amazing projects. I'm excited to learn and grow alongside this vibrant community of developers. If you're on a similar journey or have any advice to share, I'd love to connect! 🚀
 
 #### Skills : 
-##### Node.js / Express.Js / MongoDB / Firebase / React.Js / JS / Tailwind CSS / CSS / HTML
+##### HTML / CSS / Tailwind CSS / JS / React.Js / Firebase / MongoDB / Express.Js / Node.js
 ###
 
-
 <div align="left">
-    <img width="30" />
+  
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="24" alt="Figma logo"  />
   <img width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="24" alt="Css logo"  />
