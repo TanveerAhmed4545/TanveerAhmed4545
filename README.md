@@ -8,31 +8,29 @@
 Hello there! 🔍 I'm deeply passionate about the MERN stack (MongoDB, Express.js, React.js, and Node.js), where I'm constantly exploring how innovation and functionality intersect to create seamless digital experiences. As a junior developer, I'm eager to immerse myself in the world of web development and contribute my skills to building amazing projects. I'm excited to learn and grow alongside this vibrant community of developers. If you're on a similar journey or have any advice to share, I'd love to connect! 🚀
 
 #### Skills : 
-##### Node.js / Express.Js / MongoDB / React.Js / JS / HTML / CSS
+##### Node.js / Express.Js / MongoDB / Firebase / React.Js / JS / Tailwind CSS / CSS / HTML
 ###
 
 
-<div align="center">
+<div align="left">
     <img width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="24" alt="Figma logo"  />
   <img width="30" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="24" alt="Css logo"  />
+    <img width="30" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="24" alt="javascript logo"  />
-  <img width="30" />
-  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="node js logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="react logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" alt="express logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="MongoDB logo"  />
-  <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo"  />
-   <img width="30" />
+       <img width="30" />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="24" />
   <img width="30" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="24" alt="Figma logo"  />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="24" alt="react logo"  />
+      <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="24" alt="firebase logo"  />
+      <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="24" alt="MongoDB logo"  />
+     <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="24" alt="express logo"  />
+  <img width="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="24" alt="node js logo"  />
 
 </div>
 
